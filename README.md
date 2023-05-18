@@ -2,8 +2,6 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shimaamamdouh99//)  
 
-https://www.ntuclearninghub.com/documents/39367/4216797/Python-Symbol.png/369e410e-a90f-f887-c2dc-61f7ef761476/
-
 <!--
 **shimaamamdouh/shimaamamdouh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
