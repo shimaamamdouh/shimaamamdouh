@@ -7,7 +7,7 @@
 - 📫 How to reach me: shimaamamdouh9991@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]
+
 
 
 
