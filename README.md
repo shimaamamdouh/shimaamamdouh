@@ -1,6 +1,16 @@
-### Hi there 👋
+## Hi there 👋, My name is Shimaa Mamdouh.
+## A passionate Report Analyst from Egypt.
+
+- 🔭 I’m currently working on Market Basket Analysis Using Association Mining Rule. 
+- 🌱 I’m currently learning the 365 data analyst career track. 
+- 👯 I’m looking to collaborate on data analysis projects. 
+- 📫 How to reach me: shimaamamdouh9991@gmail.com 
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shimaamamdouh99//)  
+
+
+
 
 
 
