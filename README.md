@@ -1,9 +1,10 @@
 ## Hi there 👋, My name is Shimaa Mamdouh.
 ## A passionate Report Analyst from Egypt.
 
-- 🔭 I’m currently working on Market Basket Analysis Using Association Mining Rule. 
-- 🌱 I’m currently learning the 365 data analyst career track. 
-- 👯 I’m looking to collaborate on data analysis projects. 
+- 🔭 I’m currently working on **Power BI, Excel and learning Python, Azure Databricks**.
+- ✅ Design creative and powerful/dynamic Power BI Dashboards
+- 👯 I’m looking to collaborate on **data analysis projects**.
+- 👨‍💻 Accept Freelancing Work and Remote Job. 
 - 📫 How to reach me: shimaamamdouh9991@gmail.com 
 
 
