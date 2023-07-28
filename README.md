@@ -8,7 +8,18 @@
 - 👨‍💻 All of my projects are available at **[https://github.com/shimaamamdouh](https://github.com/shimaamamdouh)**.
 - 📫 How to reach me: **shimaamamdouh9991@gmail.com**.
 
-<p><a href="https://www.buymeacoffee.com/Shimaa "> <img align="left"src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Shimaa " /></a></p><br><br> 
+
+<code><img height="70" src="https://pluralsight2.imgix.net/paths/images/python-7be70baaac.png"></code>
+  <code><img height="70" src="https://images.squarespace-cdn.com/content/v1/587670ef03596ec731de6e3d/1486276069386-ENNKG7EAXQBUZHPMEY37/Tableau+Logo.png"></code>
+  <code><img height="70" src="https://www.arageek.com/wp-content/uploads/2019/11/888.jpeg"></code>
+
+
+ 
+
+
+
+
+<p><a href="https://www.buymeacoffee.com/shimaamamdl"> <img align="left"src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Shimaa " /></a></p><br><br> 
 
 
 
